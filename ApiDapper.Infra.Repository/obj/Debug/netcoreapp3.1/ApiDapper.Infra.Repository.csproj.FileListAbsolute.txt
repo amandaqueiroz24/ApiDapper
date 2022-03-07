@@ -1,0 +1,14 @@
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\bin\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.deps.json
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\bin\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.dll
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\bin\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.pdb
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\bin\Debug\netcoreapp3.1\ApiDapper.Application.dll
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\bin\Debug\netcoreapp3.1\ApiDapper.Domain.dll
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\bin\Debug\netcoreapp3.1\ApiDapper.Application.pdb
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\bin\Debug\netcoreapp3.1\ApiDapper.Domain.pdb
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\obj\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.csprojAssemblyReference.cache
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\obj\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\obj\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.AssemblyInfo.cs
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\obj\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\obj\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.csproj.CopyComplete
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\obj\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.dll
+C:\Users\amand\source\repos\ApiDapper\ApiDapper.Infra.Repository\obj\Debug\netcoreapp3.1\ApiDapper.Infra.Repository.pdb

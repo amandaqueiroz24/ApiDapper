@@ -1,0 +1,9 @@
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\bin\Debug\netcoreapp3.1\ApiDapper.Domain.deps.json
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\bin\Debug\netcoreapp3.1\ApiDapper.Domain.dll
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\bin\Debug\netcoreapp3.1\ApiDapper.Domain.pdb
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\obj\Debug\netcoreapp3.1\ApiDapper.Domain.AssemblyInfoInputs.cache
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\obj\Debug\netcoreapp3.1\ApiDapper.Domain.AssemblyInfo.cs
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\obj\Debug\netcoreapp3.1\ApiDapper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\obj\Debug\netcoreapp3.1\ApiDapper.Domain.dll
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\obj\Debug\netcoreapp3.1\ApiDapper.Domain.pdb
+C:\Users\amand\source\repos\ApiDapper\ApiTeste.Domain\obj\Debug\netcoreapp3.1\ApiDapper.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDapper", "ApiDapper\ApiDapper.csproj", "{3C0F0E7C-9C48-41EA-BB3C-D964265EF4D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{4E9094B6-F81C-43F3-9743-71F09B0B4081}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{11589230-34DB-483F-B930-14539899AAAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{0294BD5E-4709-441E-A0D8-39EAFFC1551A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDapper.Application", "ApiTeste.Application\ApiDapper.Application.csproj", "{ED70FB16-B9CC-4B7C-AF97-DFEDCE5707AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDapper.Domain", "ApiTeste.Domain\ApiDapper.Domain.csproj", "{8590D1FC-C221-4AEC-85C0-1CC62FF890E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiDapper.Infra.Repository", "ApiDapper.Infra.Repository\ApiDapper.Infra.Repository.csproj", "{564B2682-737F-4006-B293-337433FF1DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0F0E7C-9C48-41EA-BB3C-D964265EF4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0F0E7C-9C48-41EA-BB3C-D964265EF4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0F0E7C-9C48-41EA-BB3C-D964265EF4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0F0E7C-9C48-41EA-BB3C-D964265EF4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED70FB16-B9CC-4B7C-AF97-DFEDCE5707AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED70FB16-B9CC-4B7C-AF97-DFEDCE5707AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED70FB16-B9CC-4B7C-AF97-DFEDCE5707AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED70FB16-B9CC-4B7C-AF97-DFEDCE5707AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8590D1FC-C221-4AEC-85C0-1CC62FF890E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8590D1FC-C221-4AEC-85C0-1CC62FF890E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8590D1FC-C221-4AEC-85C0-1CC62FF890E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8590D1FC-C221-4AEC-85C0-1CC62FF890E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564B2682-737F-4006-B293-337433FF1DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564B2682-737F-4006-B293-337433FF1DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564B2682-737F-4006-B293-337433FF1DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564B2682-737F-4006-B293-337433FF1DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C0F0E7C-9C48-41EA-BB3C-D964265EF4D3} = {0294BD5E-4709-441E-A0D8-39EAFFC1551A}
+		{ED70FB16-B9CC-4B7C-AF97-DFEDCE5707AA} = {4E9094B6-F81C-43F3-9743-71F09B0B4081}
+		{8590D1FC-C221-4AEC-85C0-1CC62FF890E5} = {4E9094B6-F81C-43F3-9743-71F09B0B4081}
+		{564B2682-737F-4006-B293-337433FF1DB0} = {11589230-34DB-483F-B930-14539899AAAE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F26C31-5AF8-4FDC-AF3D-3E44E25AF959}
+	EndGlobalSection
+EndGlobal
